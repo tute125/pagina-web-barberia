@@ -228,7 +228,7 @@ td{
 
 .mapa{
     padding: 3em 0;
-    background: linear-gradient(85deg, blue,white,red);
+    background: linear-gradient(white, grey);
 }
 .mapa p{
     margin: 0 0 2em;
@@ -241,7 +241,7 @@ td{
 
 .diferenciales{
     padding: 3em;
-    background: linear-gradient(85deg, blue,white,red);
+    background: linear-gradient(grey, black);
 }
 
 .contenido-diferenciales{
